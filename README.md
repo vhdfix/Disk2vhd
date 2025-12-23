@@ -1,7 +1,7 @@
 # Disk2vhd
 
 Download latest version from Releases:       
-https://github.com/2vhd/Disk2vhd/releases/tag/v2.02
+https://github.com/vhdapi/Disk2vhd/releases/tag/v2.02
 
 ## Introduction
 
@@ -13,4 +13,4 @@ Another benefit is its simplicity. Disk2vhd’s interface is straightforward and
 
 Despite its small size, Disk2vhd offers powerful capabilities that support a range of operational scenarios: creating virtual machine templates, testing software updates in a sandboxed environment, performing disaster recovery preparations, or archiving entire systems for long-term preservation. Because the resulting VHD files are usable across multiple versions of Windows and fully compatible with Hyper-V, the tool continues to be a trusted part of many administrators’ workflows.
 
-In brief, Disk2vhd is a dependable and efficient tool that links physical systems to virtual platforms, enabling easy system preservation, migration, or duplication.
+In summary, Disk2vhd acts as a robust and efficient connection between physical hardware and virtual environments, simplifying system backup, migration, and replication.
